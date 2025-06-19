@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Thamilchselvan
 
-<!--
-**selvan199711/selvan199711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Development student at Humber College, interested in building responsive websites and web apps. I enjoy working with JavaScript, Python, React, and other modern tools.
 
-Here are some ideas to get you started:
+Currently learning full-stack development, and open to opportunities in junior development, QA, or technical support. I'm eager to grow in a collaborative, hands-on environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out at: thamilselvan199711@gmail.com  
+LinkedIn: https://linkedin.com/in/selvan199711  
+GitHub: https://github.com/selvan199711
+
+### Tech Skills
+JavaScript, React, Python, HTML/CSS, Firebase, MySQL, Git/GitHub
+
+Thanks for checking out my profile.
+
